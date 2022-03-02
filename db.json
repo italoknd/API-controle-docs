@@ -1,41 +1,6 @@
 {
   "people": [
-    {
-      "fullName": "aaa",
-      "cpf": "222.222.222-22",
-      "tel": "",
-      "pendencies": "dwd",
-      "date": "2222-02-22",
-      "doctype": "CPF",
-      "id": 1
-    },
-    {
-      "fullName": "lçfklefksefks",
-      "cpf": "444.444.444-44",
-      "tel": "(42) 3 4234-2342",
-      "pendencies": "fff",
-      "date": "3333-03-31",
-      "doctype": "CPF",
-      "id": 2
-    },
-    {
-      "fullName": "lçfklefksefks",
-      "cpf": "444.444.444-44",
-      "tel": "(44) 4 4444-4444",
-      "pendencies": "ssss",
-      "date": "3333-03-31",
-      "doctype": "CPF",
-      "id": 3
-    },
-    {
-      "fullName": "lçfklefksefks",
-      "cpf": "423.423.423-42",
-      "tel": "(42) 3 4234-2342",
-      "pendencies": "aa",
-      "date": "2222-02-22",
-      "doctype": "RG",
-      "id": 4
-    }
+
   ],
   "doctypes": [
     {
