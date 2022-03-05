@@ -1,19 +1,22 @@
 {
-  "people": [
-
-  ],
-  "doctypes": [
+  "schedules": [
     {
-      "id": 1,
-      "type": "RG"
+      "fullName": "lçfklefksefks",
+      "cpf": "444.444.444-44",
+      "phone": "(22) 2 2222-2222",
+      "pendencyDescription": "s",
+      "expectedDate": "1111-11-11",
+      "typeDocument": "CPF",
+      "id": 1
     },
     {
-      "id": 2,
-      "type": "CPF"
-    },
-    {
-      "id": 3,
-      "type": "Espelho"
+      "fullName": "wqwewwqwqweqweqweqeq",
+      "cpf": "222.222.222-22",
+      "phone": "(44) 4 4444-4444",
+      "pendencyDescription": "ss",
+      "expectedDate": "275760-03-31",
+      "typeDocument": "RG",
+      "id": 2
     }
   ]
 }
